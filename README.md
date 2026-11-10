@@ -553,7 +553,7 @@ on the OLED.
 
 ## 👨‍💻 Project Links
 
--   **GitHub:** \[Add your repository link here\]
+-   **GitHub:** [PanduTechLab](https://github.com/PanduTechLab/)
 -   **YouTube:** [PandusTechLab](https://www.youtube.com/@PandusTechLab)
 -   **Instagram:**
     [@pandutechlab](https://www.instagram.com/pandutechlab)
